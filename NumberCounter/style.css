@@ -1,0 +1,21 @@
+#count{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: 'Courier New', Courier, monospace;
+}
+#ContainerB{
+    text-align: center;
+}
+.Buttons{
+    padding: 10px 20px;
+    font-size: 1.5em;
+    color: white;
+    background-color: rgb(227, 24, 187);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+.Buttons:hover{
+    background-color: blueviolet;
+}
