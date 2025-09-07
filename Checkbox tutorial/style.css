@@ -1,0 +1,16 @@
+body{
+    font-size: 2em;
+    font-family: 'Times New Roman', Times, serif;
+}
+#subm{
+    padding: 10px 20px;
+    font-size: 1.5em;
+    color: white;
+    background-color: rgb(227, 24, 187);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+#subm:hover{
+    background-color: blueviolet;
+}
